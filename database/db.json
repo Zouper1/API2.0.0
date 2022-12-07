@@ -1,0 +1,94 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "producto": "Producto 3",
+      "marca": "Marca 1",
+      "linea": "Linea 1",
+      "precio": 250,
+      "stock": 10,
+      "eliminado": false
+    },
+    {
+      "id": 2,
+      "producto": "Producto 3",
+      "marca": "Marca 1",
+      "linea": "Linea 1",
+      "precio": 250,
+      "stock": 11,
+      "eliminado": false
+    },
+    {
+      "id": 88,
+      "producto": "editado",
+      "marca": "1",
+      "linea": "2",
+      "precio": 881,
+      "stock": 10,
+      "eliminado": true
+    }
+  ],
+  "marcas": [
+    {
+      "id": 2,
+      "nombre": "Adidas jaja",
+      "eliminado": true
+    },
+    {
+      "id": 3,
+      "nombre": "Nike",
+      "eliminado": false
+    },
+    {
+      "id": 4,
+      "nombre": "H&M",
+      "eliminado": false
+    },
+    {
+      "id": 33,
+      "nombre": "editado",
+      "eliminado": true
+    }
+  ],
+  "lineas": [
+    {
+      "id": 1,
+      "nombre": "Zapatillas",
+      "eliminado": false
+    },
+    {
+      "id": 2,
+      "nombre": "Camisetas",
+      "eliminado": false
+    },
+    {
+      "id": 3,
+      "nombre": "Pantalones",
+      "eliminado": false
+    },
+    {
+      "id": 4,
+      "nombre": "Pantalon",
+      "eliminado": false
+    },
+    {
+      "id": 99,
+      "nombre": "editado",
+      "eliminado": true
+    }
+  ],
+  "ventas": [
+    {
+      "productoV": 2,
+      "cantidadV": 5,
+      "createdAt": "6/12/2022, 19:00:54"
+    }
+  ],
+  "ingresos": [
+    {
+      "producto": 2,
+      "cantidad": 2,
+      "createdAt": "6/12/2022, 19:03:34"
+    }
+  ]
+}
